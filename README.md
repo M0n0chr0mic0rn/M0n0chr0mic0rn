@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M0n0chr0mic0rn
+- 👋 Hi, I’m Monochromicorn
 - I focus on API development, especially the accessibility of the Litecoin blockchain in the Web2 Space for creating dApps
 
 <!---
