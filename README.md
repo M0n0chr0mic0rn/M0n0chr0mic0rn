@@ -12,7 +12,7 @@ Auch verfügbar in der Fähigkeitskiste sind Server - Client Strukturen / API
 I mainly deal with blockchain technology, Nakamoto STD (Bitcoin, Litecoin, Dogecoin) <br>
 Ethereum can go home!
 
-Also available in the skill box are server - client structures / APIa
+Also available in the skill box are server - client structures / API
 <!---
 M0n0chr0mic0rn/M0n0chr0mic0rn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
