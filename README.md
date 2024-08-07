@@ -1,6 +1,6 @@
 👋 Hallo, Ich bin Monochromicorn
 
-Ich beschäftige mich Hauptsächlich mit Blockchain Technologie, Nakamoto STD (Bitcoin, Litecoin, Dogecoin)\n
+Ich beschäftige mich Hauptsächlich mit Blockchain Technologie, Nakamoto STD (Bitcoin, Litecoin, Dogecoin) <br>
 Ethereum kann nach Hause gehen!
 
 Auch verfügbar in der Fähigkeitskiste sind Server - Client Strukturen / API
