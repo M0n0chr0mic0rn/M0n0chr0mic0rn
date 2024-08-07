@@ -9,7 +9,7 @@ Auch verfügbar in der Fähigkeitskiste sind Server - Client Strukturen / API
 
 👋 Hello, I'm Monochromicorn
 
-I mainly deal with blockchain technology, Nakamoto STD (Bitcoin, Litecoin, Dogecoin)
+I mainly deal with blockchain technology, Nakamoto STD (Bitcoin, Litecoin, Dogecoin) <br>
 Ethereum can go home!
 
 Also available in the skill box are server - client structures / APIa
